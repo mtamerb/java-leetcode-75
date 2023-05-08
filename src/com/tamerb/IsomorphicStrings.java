@@ -1,9 +1,6 @@
-package com.tamerb.level1;
+package com.tamerb;
 
 import java.util.HashMap;
-
-
-
 
 public class IsomorphicStrings {
 
